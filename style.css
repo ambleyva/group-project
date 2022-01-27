@@ -16,7 +16,7 @@ header h1 {
     margin: 0;
 }
 main h2 {
-    color: black;
+    color: rgb(14, 1, 1);
     text-decoration: underline;
 }
 .container {
@@ -25,8 +25,8 @@ main h2 {
 }
 
 /* Add Student Styles Below */
-.jane-style {
-    color: hotpink;
+.Amber-style {
+    color: rgb(7, 131, 153);
     background-color: black;
     padding: 3px;
 }
